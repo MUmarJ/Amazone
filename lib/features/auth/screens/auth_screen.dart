@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_cockpit/constants/global_variables.dart';
+import 'package:flutter_amazone/constants/global_variables.dart';
 
 enum Auth { signIn, signUp }
 

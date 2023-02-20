@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_cockpit/constants/global_variables.dart';
-import 'package:flutter_cockpit/router.dart';
+import 'constants/global_variables.dart';
+import 'router.dart';
 // import 'features/example/counter.dart';
 import 'features/example/tutorial.dart';
 

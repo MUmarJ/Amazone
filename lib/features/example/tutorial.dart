@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_cockpit/features/auth/screens/auth_screen.dart';
+import 'package:flutter_amazone/features/auth/screens/auth_screen.dart';
 
 class ExampleHome extends StatefulWidget {
   const ExampleHome({super.key});
